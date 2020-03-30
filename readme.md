@@ -1,1 +1,1 @@
-# React CS Tool
+# Webpack and reack settings

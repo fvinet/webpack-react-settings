@@ -1,5 +1,5 @@
 {
-  "name": "react-boilerplate",
+  "name": "webpack-react-settings",
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
@@ -18,15 +18,7 @@
   },
   "author": "",
   "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/fvinet/cstool.git"
-  },
   "keywords": [],
-  "bugs": {
-    "url": "https://github.com/fvinet/cstool/issues"
-  },
-  "homepage": "https://github.com/fvinet/cstool#readme",
   "devDependencies": {
     "@babel/cli": "^7.8.4",
     "@babel/core": "^7.9.0",
@@ -60,5 +52,13 @@
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-hot-loader": "^4.12.20"
+  },
+  "bugs": {
+    "url": "https://github.com/fvinet/cstool/issues"
+  },
+  "homepage": "https://github.com/fvinet/cstool#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fvinet/webpack-react-settings.git"
   }
 }
