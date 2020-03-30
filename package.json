@@ -53,12 +53,12 @@
     "react-dom": "^16.13.1",
     "react-hot-loader": "^4.12.20"
   },
-  "bugs": {
-    "url": "https://github.com/fvinet/cstool/issues"
-  },
-  "homepage": "https://github.com/fvinet/cstool#readme",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fvinet/webpack-react-settings.git"
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/fvinet/webpack-react-settings/issues"
+  },
+  "homepage": "https://github.com/fvinet/webpack-react-settings#readme"
 }
